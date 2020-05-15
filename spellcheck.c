@@ -1,14 +1,3 @@
-/****************************
-*****************************
-Name: Huy Tran
-Red ID: 818608122
-
-CS-570
-a01
-spellcheck.c
-*****************************
-*****************************/
-
 #include <string.h>
 #include <ctype.h>
 #include "dictionary.h"
