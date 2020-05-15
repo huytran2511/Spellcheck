@@ -19,7 +19,7 @@ typedef enum {
 	BADCHARS,
 	ADDED,
 	EXISTS
-} ResultType
+} ResultType;
 
 
 ResultType find(struct dictentry *dictnode, const char *word, const char *targetword);
